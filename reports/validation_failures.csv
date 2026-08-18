@@ -1,0 +1,1131 @@
+rule_id,severity,file_name,company_id,year,message
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,ADANIPORTS,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,AMBUJACEM,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,AMBUJACEM,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,HCLTECH,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,HCLTECH,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,SHREECEM,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,profitandloss.xlsx,SHREECEM,PARSE_ERROR,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,ASIANPAINT,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,PNB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,POWERGRID,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,balancesheet.xlsx,TECHM,2024-09,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,ABB,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,BAJAJ-AUTO,2024-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2013-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2014-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2015-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2016-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2017-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2018-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2019-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2020-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2021-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2022-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2023-03,Duplicate company-year record
+DQ-02,CRITICAL,cashflow.xlsx,TCS,2024-03,Duplicate company-year record
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ULTRACEMCO,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNIONBANK,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,UNITDSPR,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2012-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2013-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2014-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2015-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2016-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2017-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2018-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2019-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2020-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2021-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2022-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,2023-12,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VBL,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,VEDL,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,WIPRO,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZOMATO,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ZOMATO,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,WIPRO,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,VEDL,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNITDSPR,PARSE_ERROR,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,UNIONBANK,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,balancesheet.xlsx,ULTRACEMCO,2024-09,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,AGTL,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ULTRACEMCO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNIONBANK,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,UNITDSPR,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2012-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2013-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2014-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2015-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2016-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2017-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2018-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2019-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2020-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2021-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2022-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VBL,2023-12,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,VEDL,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,WIPRO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZOMATO,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZOMATO,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZOMATO,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZOMATO,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZOMATO,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2013-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2014-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2015-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2016-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2017-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2018-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2019-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2020-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2021-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2022-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2023-03,Company ID not found in companies table
+DQ-03,CRITICAL,cashflow.xlsx,ZYDUSLIFE,2024-03,Company ID not found in companies table
+DQ-03,CRITICAL,analysis.xlsx,WIPRO,,Company ID not found in companies table
+DQ-03,CRITICAL,analysis.xlsx,WIPRO,,Company ID not found in companies table
+DQ-03,CRITICAL,analysis.xlsx,WIPRO,,Company ID not found in companies table
+DQ-03,CRITICAL,analysis.xlsx,WIPRO,,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ULTRACEMCO,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNIONBANK,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,UNITDSPR,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VBL,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,VEDL,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,WIPRO,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZOMATO,2009,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2024,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2023,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2022,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2021,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2020,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2019,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2018,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2017,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2016,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2015,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2014,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2013,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2012,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2011,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2010,Company ID not found in companies table
+DQ-03,CRITICAL,documents.xlsx,ZYDUSLIFE,2009,Company ID not found in companies table
+DQ-03,CRITICAL,prosandcons.xlsx,WIPRO,,Company ID not found in companies table
+DQ-03,CRITICAL,prosandcons.xlsx,WIPRO,,Company ID not found in companies table
+DQ-05,WARNING,profitandloss.xlsx,ADANIENSOL,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,AXISBANK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BAJFINANCE,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,BANKBARODA,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CANBK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CHOLAFIN,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,CIPLA,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,COALINDIA,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCBANK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HDFCLIFE,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HEROMOTOCO,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDALCO,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,HINDUNILVR,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIBANK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIGI,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,ICICIPRULI,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDUSINDBK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,JIOFIN,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,KOTAKBANK,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,SUNPHARMA,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2013-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2014-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2015-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2016-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2017-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2018-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2019-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2020-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2021-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2022-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2023-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,2024-03,OPM differs from computed OPM by >= 1 percentage point
+DQ-05,WARNING,profitandloss.xlsx,INDIGO,PARSE_ERROR,OPM differs from computed OPM by >= 1 percentage point
+DQ-06,WARNING,profitandloss.xlsx,ADANIENSOL,2014-03,Non-bank company has sales <= 0
+DQ-07,CRITICAL,profitandloss.xlsx,ABB,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIENSOL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIENT,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIGREEN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIPORTS,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIPORTS,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ADANIPOWER,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,AMBUJACEM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,AMBUJACEM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,APOLLOHOSP,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ASIANPAINT,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ATGL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BAJAJ-AUTO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,AXISBANK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BAJAJFINSV,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BAJAJHLDNG,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BAJFINANCE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BANKBARODA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BHARTIARTL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BEL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BHEL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BOSCHLTD,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BPCL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,BRITANNIA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,CANBK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,CHOLAFIN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,CIPLA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,COALINDIA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,DABUR,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,DIVISLAB,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,DLF,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,DMART,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,DRREDDY,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,EICHERMOT,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,GAIL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,GODREJCP,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,GRASIM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HAL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HAVELLS,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HCLTECH,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HCLTECH,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HDFCBANK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HDFCLIFE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HEROMOTOCO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HINDALCO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,HINDUNILVR,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ICICIBANK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ICICIGI,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ICICIPRULI,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,INDUSINDBK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,INFY,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,IOC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,IRCTC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,IRFC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ITC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,JINDALSTEL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,JIOFIN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,JSWENERGY,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,JSWSTEEL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,KOTAKBANK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,LICI,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,LODHA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,LT,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,LTIM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,M&M,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,MARUTI,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,MOTHERSON,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,NAUKRI,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,NESTLEIND,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,NHPC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,NTPC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ONGC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,PFC,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,PIDILITIND,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,PNB,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,POWERGRID,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,RECLTD,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,RELIANCE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SBILIFE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SBIN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SHREECEM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SHREECEM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SHRIRAMFIN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,SUNPHARMA,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TATACONSUM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TATAMOTORS,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TATAPOWER,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TATASTEEL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TCS,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TECHM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TITAN,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TORNTPHARM,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TRENT,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,TVSMOTOR,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ULTRACEMCO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,UNIONBANK,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,UNITDSPR,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,VBL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,VEDL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,WIPRO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ZOMATO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,ZYDUSLIFE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,profitandloss.xlsx,INDIGO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,balancesheet.xlsx,ZYDUSLIFE,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,balancesheet.xlsx,ZOMATO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,balancesheet.xlsx,WIPRO,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,balancesheet.xlsx,VEDL,PARSE_ERROR,Invalid year format
+DQ-07,CRITICAL,balancesheet.xlsx,UNITDSPR,PARSE_ERROR,Invalid year format
+DQ-09,WARNING,cashflow.xlsx,TVSMOTOR,2022-03,Net cash flow differs from components by > 10
+DQ-11,WARNING,profitandloss.xlsx,ADANIENT,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIGREEN,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIGREEN,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIGREEN,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIPOWER,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIPOWER,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIPOWER,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ADANIPOWER,2023-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,AMBUJACEM,2018-12,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,APOLLOHOSP,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,AXISBANK,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,AXISBANK,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BANKBARODA,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BANKBARODA,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BANKBARODA,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BANKBARODA,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHARTIARTL,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHARTIARTL,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHARTIARTL,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHARTIARTL,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHEL,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHEL,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHEL,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHEL,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,BHEL,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,CANBK,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,CANBK,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,CANBK,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,DLF,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,DLF,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,DRREDDY,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,GODREJCP,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,GODREJCP,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,GRASIM,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,HDFCLIFE,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,HINDALCO,2015-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,HINDALCO,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,IOC,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,IRFC,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JINDALSTEL,2015-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JINDALSTEL,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JINDALSTEL,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JINDALSTEL,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JINDALSTEL,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JSWENERGY,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JSWSTEEL,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JSWSTEEL,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,JSWSTEEL,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LICI,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LICI,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LICI,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LICI,2022-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LODHA,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,LODHA,2023-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,M&M,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,MOTHERSON,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NAUKRI,2015-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NAUKRI,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NAUKRI,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NAUKRI,2023-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NHPC,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NHPC,2022-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NTPC,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,NTPC,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,PNB,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,PNB,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,PNB,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,POWERGRID,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,SBIN,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,SBIN,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,SHREECEM,2015-06,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATACONSUM,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATAMOTORS,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATAMOTORS,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATAPOWER,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATAPOWER,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATAPOWER,2015-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2015-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TATASTEEL,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TRENT,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TRENT,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TRENT,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,TRENT,2022-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ULTRACEMCO,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNIONBANK,2017-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNIONBANK,2018-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNIONBANK,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNIONBANK,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNIONBANK,2021-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNITDSPR,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,UNITDSPR,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VBL,2012-12,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VBL,2013-12,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VBL,2014-12,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VEDL,2013-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VEDL,2014-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VEDL,2016-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VEDL,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,VEDL,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ZOMATO,2023-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,ZOMATO,2024-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,INDIGO,2019-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,INDIGO,2020-03,Tax percentage outside 0-60% range
+DQ-11,WARNING,profitandloss.xlsx,INDIGO,2024-03,Tax percentage outside 0-60% range
+DQ-12,WARNING,profitandloss.xlsx,BHARTIARTL,2019-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,BRITANNIA,2021-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,M&M,2020-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,SBIN,2017-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,TATAPOWER,2015-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,VEDL,2023-03,Dividend payout exceeds 200%
+DQ-12,WARNING,profitandloss.xlsx,VEDL,2024-03,Dividend payout exceeds 200%
+DQ-13,WARNING,documents.xlsx,IOC,2024,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,IOC,2023,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2023,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2022,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2021,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2017,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2016,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2015,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2013,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2012,Malformed annual report URL
+DQ-13,WARNING,documents.xlsx,KOTAKBANK,2011,Malformed annual report URL
+DQ-14,WARNING,profitandloss.xlsx,M&M,2020-03,EPS sign inconsistent with net profit
+DQ-14,WARNING,profitandloss.xlsx,NAUKRI,2015-03,EPS sign inconsistent with net profit
+DQ-14,WARNING,profitandloss.xlsx,TATAPOWER,2014-03,EPS sign inconsistent with net profit
+DQ-16,WARNING,profitandloss.xlsx,JIOFIN,,Only 3 years of coverage
+DQ-16,WARNING,balancesheet.xlsx,JIOFIN,,Only 3 years of coverage
+DQ-16,WARNING,cashflow.xlsx,JIOFIN,,Only 2 years of coverage
