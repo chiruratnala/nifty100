@@ -1,6 +1,4 @@
 # Nifty 100 Screener Engine Configuration
-# Preset thresholds and custom filter definitions
-
 presets:
   quality_compounder:
     name: "Quality Compounder"
@@ -13,10 +11,10 @@ presets:
 
   value_pick:
     name: "Value Pick"
-    description: "Undervalued stocks with reasonable leverage, low P/E & P/B multiples, and solid dividend yields."
+    description: "Reasonably valued stocks with moderate leverage and positive dividend yield."
     filters:
-      pe_ratio_max: 20.0
-      pb_ratio_max: 3.0
+      pe_ratio_max: 25.0
+      pb_ratio_max: 4.0
       debt_to_equity_max: 2.0
       dividend_yield_pct_min: 1.0
 
