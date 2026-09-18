@@ -1,0 +1,39 @@
+company_id,from_year,to_year,previous_pattern,latest_pattern,transition_text
+ABB,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+ADANIENSOL,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+ADANIENT,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+ADANIGREEN,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+AMBUJACEM,2021-12,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+ATGL,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+AXISBANK,2023-03,2024-03,Mixed,Growth Funded by Debt,Moved from Mixed to Growth Funded by Debt
+BAJAJ-AUTO,2023-03,2024-03,Liquidating Assets,Reinvestor,Moved from Liquidating Assets to Reinvestor
+BANKBARODA,2023-03,2024-03,Pre-Revenue,Growth Funded by Debt,Moved from Pre-Revenue to Growth Funded by Debt
+BEL,2023-03,2024-03,Liquidating Assets,Shareholder Returns,Moved from Liquidating Assets to Shareholder Returns
+BRITANNIA,2023-03,2024-03,Reinvestor,Liquidating Assets,Moved from Reinvestor to Liquidating Assets
+CANBK,2023-03,2024-03,Growth Funded by Debt,Reinvestor,Moved from Growth Funded by Debt to Reinvestor
+DLF,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+GAIL,2023-03,2024-03,Mixed,Reinvestor,Moved from Mixed to Reinvestor
+GODREJCP,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+HAVELLS,2023-03,2024-03,Liquidating Assets,Reinvestor,Moved from Liquidating Assets to Reinvestor
+HDFCBANK,2023-03,2024-03,Mixed,Liquidating Assets,Moved from Mixed to Liquidating Assets
+HDFCLIFE,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+ICICIBANK,2023-03,2024-03,Growth Funded by Debt,Mixed,Moved from Growth Funded by Debt to Mixed
+ICICIPRULI,2023-03,2024-03,Shareholder Returns,Distress / Asset Sale,Moved from Shareholder Returns to Distress / Asset Sale
+INDUSINDBK,2023-03,2024-03,Growth Funded by Debt,Pre-Revenue,Moved from Growth Funded by Debt to Pre-Revenue
+IRFC,2023-03,2024-03,Distress Signal,Reinvestor,Moved from Distress Signal to Reinvestor
+ITC,2023-03,2024-03,Reinvestor,Liquidating Assets,Moved from Reinvestor to Liquidating Assets
+JINDALSTEL,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+JIOFIN,2023-03,2024-03,Reinvestor,Distress / Asset Sale,Moved from Reinvestor to Distress / Asset Sale
+KOTAKBANK,2023-03,2024-03,Growth Funded by Debt,Mixed,Moved from Growth Funded by Debt to Mixed
+LODHA,2023-03,2024-03,Liquidating Assets,Mixed,Moved from Liquidating Assets to Mixed
+LT,2023-03,2024-03,Shareholder Returns,Liquidating Assets,Moved from Shareholder Returns to Liquidating Assets
+MOTHERSON,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+PNB,2023-03,2024-03,Mixed,Growth Funded by Debt,Moved from Mixed to Growth Funded by Debt
+RELIANCE,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+SBIN,2023-03,2024-03,Growth Funded by Debt,Reinvestor,Moved from Growth Funded by Debt to Reinvestor
+SHRIRAMFIN,2023-03,2024-03,Distress Signal,Growth Funded by Debt,Moved from Distress Signal to Growth Funded by Debt
+SUNPHARMA,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+TATACONSUM,2023-03,2024-03,Shareholder Returns,Mixed,Moved from Shareholder Returns to Mixed
+TATAPOWER,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns
+TITAN,2023-03,2024-03,Mixed,Reinvestor,Moved from Mixed to Reinvestor
+TORNTPHARM,2023-03,2024-03,Mixed,Shareholder Returns,Moved from Mixed to Shareholder Returns

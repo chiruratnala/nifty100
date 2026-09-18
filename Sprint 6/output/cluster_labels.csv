@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+ABB,0,Defensive Dividend Payers,0.2786
+ADANIENSOL,4,Emerging Growth Compounders,0.7419
+ADANIENT,4,Emerging Growth Compounders,0.361
+ADANIGREEN,1,Capital-Intensive Cyclicals,2.4808
+ADANIPORTS,3,High-Quality Compounders,1.1833
+ADANIPOWER,4,Emerging Growth Compounders,0.8215
+AMBUJACEM,0,Defensive Dividend Payers,0.2287
+APOLLOHOSP,4,Emerging Growth Compounders,0.8327
+ASIANPAINT,0,Defensive Dividend Payers,0.6522
+ATGL,4,Emerging Growth Compounders,0.4672
+AXISBANK,1,Capital-Intensive Cyclicals,0.9777
+BAJAJ-AUTO,0,Defensive Dividend Payers,0.1237
+BAJAJFINSV,4,Emerging Growth Compounders,1.2861
+BAJAJHLDNG,3,High-Quality Compounders,2.5147
+BAJFINANCE,4,Emerging Growth Compounders,1.0462
+BANKBARODA,1,Capital-Intensive Cyclicals,1.5121
+BEL,2,Distressed / Capital Base Outliers,0.7611
+BHARTIARTL,3,High-Quality Compounders,1.2843
+BHEL,0,Defensive Dividend Payers,1.9156
+BOSCHLTD,0,Defensive Dividend Payers,0.4012
+BPCL,0,Defensive Dividend Payers,0.4217
+BRITANNIA,0,Defensive Dividend Payers,0.1064
+CANBK,1,Capital-Intensive Cyclicals,2.3549
+CHOLAFIN,1,Capital-Intensive Cyclicals,1.2683
+CIPLA,3,High-Quality Compounders,0.6521
+COALINDIA,3,High-Quality Compounders,1.0424
+DABUR,0,Defensive Dividend Payers,0.1243
+DIVISLAB,0,Defensive Dividend Payers,0.3617
+DLF,0,Defensive Dividend Payers,1.9136
+DMART,4,Emerging Growth Compounders,0.7373
+DRREDDY,0,Defensive Dividend Payers,0.6666
+EICHERMOT,0,Defensive Dividend Payers,0.4443
+GAIL,0,Defensive Dividend Payers,0.6079
+GODREJCP,0,Defensive Dividend Payers,0.2677
+GRASIM,0,Defensive Dividend Payers,0.5635
+HAL,2,Distressed / Capital Base Outliers,0.7611
+HAVELLS,0,Defensive Dividend Payers,0.7669
+HCLTECH,0,Defensive Dividend Payers,0.613
+HDFCBANK,1,Capital-Intensive Cyclicals,0.7373
+HDFCLIFE,3,High-Quality Compounders,1.2642
+HEROMOTOCO,3,High-Quality Compounders,1.6113
+HINDALCO,3,High-Quality Compounders,0.5269
+HINDUNILVR,3,High-Quality Compounders,0.6431
+ICICIBANK,1,Capital-Intensive Cyclicals,0.7434
+ICICIGI,3,High-Quality Compounders,0.3601
+ICICIPRULI,3,High-Quality Compounders,0.9258
+INDIGO,3,High-Quality Compounders,1.5406
+INDUSINDBK,1,Capital-Intensive Cyclicals,0.9563
+INFY,0,Defensive Dividend Payers,0.6863
+IOC,0,Defensive Dividend Payers,0.4268
+IRCTC,4,Emerging Growth Compounders,0.7931
+IRFC,1,Capital-Intensive Cyclicals,1.6099
+ITC,0,Defensive Dividend Payers,0.6288
+JINDALSTEL,0,Defensive Dividend Payers,0.9548
+JIOFIN,3,High-Quality Compounders,0.36
+JSWENERGY,0,Defensive Dividend Payers,1.171
+JSWSTEEL,4,Emerging Growth Compounders,0.6344
+KOTAKBANK,3,High-Quality Compounders,1.1875
+LICI,0,Defensive Dividend Payers,0.6439
+LODHA,0,Defensive Dividend Payers,1.5488
+LT,0,Defensive Dividend Payers,0.4062
+LTIM,4,Emerging Growth Compounders,1.5387
+M&M,0,Defensive Dividend Payers,0.5689
+MARUTI,0,Defensive Dividend Payers,0.4326
+MOTHERSON,0,Defensive Dividend Payers,0.4551
+NAUKRI,4,Emerging Growth Compounders,0.7259
+NESTLEIND,0,Defensive Dividend Payers,0.8814
+NHPC,0,Defensive Dividend Payers,1.4598
+NTPC,0,Defensive Dividend Payers,0.7255
+ONGC,0,Defensive Dividend Payers,0.2223
+PFC,1,Capital-Intensive Cyclicals,1.2806
+PIDILITIND,0,Defensive Dividend Payers,0.4981
+PNB,4,Emerging Growth Compounders,0.9355
+POWERGRID,3,High-Quality Compounders,1.176
+RECLTD,1,Capital-Intensive Cyclicals,1.9397
+RELIANCE,0,Defensive Dividend Payers,0.2117
+SBILIFE,4,Emerging Growth Compounders,1.1314
+SBIN,0,Defensive Dividend Payers,0.5457
+SHREECEM,0,Defensive Dividend Payers,0.2998
+SHRIRAMFIN,4,Emerging Growth Compounders,0.9127
+SIEMENS,0,Defensive Dividend Payers,0.483
+SUNPHARMA,0,Defensive Dividend Payers,0.4247
+TATACONSUM,4,Emerging Growth Compounders,0.7565
+TATAMOTORS,0,Defensive Dividend Payers,0.4145
+TATAPOWER,4,Emerging Growth Compounders,0.6118
+TATASTEEL,0,Defensive Dividend Payers,0.4633
+TCS,0,Defensive Dividend Payers,0.3859
+TECHM,0,Defensive Dividend Payers,0.4599
+TITAN,4,Emerging Growth Compounders,0.4211
+TORNTPHARM,0,Defensive Dividend Payers,0.451
+TRENT,4,Emerging Growth Compounders,2.3084
+TVSMOTOR,4,Emerging Growth Compounders,1.137

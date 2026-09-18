@@ -1,0 +1,10 @@
+company_id,company_name,broad_sector,metric,metric_value,sector_mean,sector_std,z_score
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Diversified Industrials,net_profit_margin_pct,432.73,20.0,44.94,9.18
+BEL,Bharat Electronics Ltd,Diversified Industrials,return_on_equity_pct,4744.05,122.73,630.28,7.33
+HAL,Hindustan Aeronautics Ltd,Diversified Industrials,return_on_equity_pct,3816.58,122.73,630.28,5.86
+INDIGO,Interglobe Aviation Ltd,Diversified Industrials,net_profit_cagr_5yr,120.69,19.26,20.29,5.0
+CANBK,Canara Bank,Diversified Industrials,debt_to_equity,14.87,1.65,2.83,4.66
+BANKBARODA,Bank of Baroda,Diversified Industrials,debt_to_equity,12.14,1.65,2.83,3.7
+CANBK,Canara Bank,Diversified Industrials,net_profit_cagr_5yr,85.78,19.26,20.29,3.28
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Diversified Industrials,revenue_cagr_5yr,36.31,12.98,7.27,3.21
+ADANIGREEN,Adani Green Energy Ltd,Diversified Industrials,revenue_cagr_5yr,34.98,12.98,7.27,3.03
