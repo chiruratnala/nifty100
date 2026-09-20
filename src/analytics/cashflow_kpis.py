@@ -9,6 +9,21 @@ import sqlite3
 import pandas as pd
 import numpy as np
 
+def compute_fcf(cfo, cfi):
+    """
+    Calculate Free Cash Flow from Cash Flow from Operations
+    and Cash Flow from Investing.
+
+    FCF = CFO + CFI
+    """
+    if cfo is None or cfi is None:
+        return None
+
+    if pd.isna(cfo) or pd.isna(cfi):
+        return None
+
+    return float(cfo) + float(cfi)
+
 EXCEL_OUTPUT = "output/cashflow_intelligence.xlsx"
 DISTRESS_CSV = "output/distress_alerts.csv"
 

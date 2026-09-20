@@ -7,9 +7,11 @@ import sqlite3
 from typing import Any
 
 from fastapi import APIRouter, Depends, Query
-
+from fastapi.responses import FileResponse
+from fastapi import HTTPException
 from src.api.deps import fetch_company_row, find_col, get_db
-
+from src.api.routers.peers import calculate_radar_dict
+from src.reports.tearsheet import build_tearsheet
 router = APIRouter()
 
 
@@ -151,3 +153,53 @@ def get_company_ratios(
 ):
     """Execute Get company ratios routine."""
     return query_financial_table(conn, "financial_ratios", ticker, single_year=year)
+
+@router.get(
+    "/{ticker}/tearsheet",
+    tags=["Companies"],
+    summary="Download Company Tearsheet",
+)
+def download_company_tearsheet(
+    ticker: str,
+    conn: sqlite3.Connection = Depends(get_db),
+):
+    """Generate and return the company's institutional tearsheet PDF."""
+
+    # Validate that the company exists
+    fetch_company_row(conn, ticker)
+
+    output_dir = "reports/tearsheets"
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_path = os.path.join(
+        output_dir,
+        f"{ticker.strip().upper()}_tearsheet.pdf",
+    )
+
+    build_tearsheet(ticker.strip().upper(), output_path)
+
+    if not os.path.exists(output_path):
+        raise HTTPException(
+            status_code=500,
+            detail=f"Unable to generate tearsheet for '{ticker}'.",
+        )
+
+    return FileResponse(
+        path=output_path,
+        media_type="application/pdf",
+        filename=os.path.basename(output_path),
+    )
+
+@router.get(
+    "/{ticker}/peers/compare",
+    response_model=dict[str, Any],
+    tags=["Companies"],
+    summary="Get Company Peer Radar",
+)
+def get_company_peer_radar(
+    ticker: str,
+    conn: sqlite3.Connection = Depends(get_db),
+):
+    """Return peer comparison radar metrics for a company."""
+
+    return calculate_radar_dict(ticker, conn)

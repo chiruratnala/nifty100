@@ -7,6 +7,7 @@ import os
 import sqlite3
 
 import pandas as pd
+
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
